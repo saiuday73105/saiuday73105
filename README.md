@@ -28,6 +28,16 @@ Here are some ideas to get you started:
 <a href="https://github.com/saiuday73105" target="_blank"><img alt="" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=Github&logoColor=white" style="vertical-align:center" /></a></p>
   
 ## Tech Stack 💻
+#### Gen AI & LLM Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000.svg?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=pytorch)
+![LangChain](https://img.shields.io/badge/-🦜️🔗%20LangChain-000?style=for-the-badge&logo=langchain)
+![Pinecone](https://img.shields.io/badge/-Pinecone%20DB-000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Chroma DB](https://img.shields.io/badge/-Chroma%20DB-000?style=for-the-badge&logo=chroma)
+![Ollama](https://img.shields.io/badge/-Ollama-000?style=for-the-badge&logo=ollama)
+![Retrieval Augmented Generation (RAG)](https://img.shields.io/badge/-Retrieval%20Augmented%20Generation%20(RAG)-000?style=for-the-badge&logo=rag)
+
+
 #### Languages
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/c++-000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
