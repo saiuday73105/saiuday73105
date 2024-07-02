@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p align="center">Turning imagination into reality 🚀</p>
 <p align="center">
 <!--  <a href="https://itsvg.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a> -->
-<a href="https://linkedin.com/in/gvn-saiuday" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<!-- <a href="https://linkedin.com/in/gvn-saiuday" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a> -->
 <a href="https://github.com/saiuday73105" target="_blank"><img alt="" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=Github&logoColor=white" style="vertical-align:center" /></a></p>
   
 ## Tech Stack 💻
