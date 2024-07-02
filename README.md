@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center"> Hi 👋🏻, I'm Venkata Narasimha Sai Uday Gattupalli </br> 
+<h1 align="center"> Hi 👋🏻, I'm Uday</br> 
 </h1>
 <p align="center">I love developing creative ideas ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
